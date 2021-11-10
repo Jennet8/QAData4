@@ -40,7 +40,7 @@ INSERT INTO orders(Customer_ID, Game_ID, Date_Ordered) VALUES(3,2, '2021-06-23')
 
 INSERT INTO orders(Customer_ID, Game_ID, Date_Ordered) VALUES(4,5, '2021-09-18');
 
-SELECT * FROM gamecustomers;
+SELECT * FROM gamecustomer;
 
 SELECT * FROM games;
 
